@@ -11,8 +11,7 @@
 
 <p align="center">
   <a href="https://axiomworks.ai">Website</a> ·
-  <a href="https://github.com/axiom-works-ai/axiomworks-youtube-mcp">YouTube MCP</a> ·
-  <a href="https://github.com/axiom-works-ai/axiomworks-google-workspace-mcp">Google Workspace MCP</a>
+  <a href="https://github.com/axiom-works-ai/axiomworks-youtube-mcp">YouTube MCP</a>
 </p>
 
 ---
@@ -26,8 +25,6 @@ We build **definitive MCP servers** for platforms that don't have them yet — c
 | Server | Tools | Status |
 |--------|-------|--------|
 | [**YouTube + YouTube Music**](https://github.com/axiom-works-ai/axiomworks-youtube-mcp) | 68 | Available |
-| [**Google Workspace**](https://github.com/axiom-works-ai/axiomworks-google-workspace-mcp) | — | In Development |
-| **Signal** | — | Planned |
 
 ### Our Products
 
